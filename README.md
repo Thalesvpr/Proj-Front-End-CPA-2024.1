@@ -1,9 +1,16 @@
 # Proj-Front-End-CPA-2024.1
+
+
+## Contexto
+
+
+
 ## 5w2h
 
 ### What (O que ?):
 
 Será feito o desenvolvimento de um Website a fim de divulgar o aplicativo da página (@riocasaseprediosantigos). O Website irá conter uma apresentação detalhada do aplicativo, além de um conteúdo informativo sobre a arquitetura carioca, através de vídeos, fotos, artigos e notícias. Ademais, também conterá uma seção de depoimentos, formulário de contato e primordialmente o link para o download do app.
+O Website a fim de divulgar o aplicativo da página (@riocasaseprediosantigos). O Website irá conter uma apresentação detalhada do aplicativo, além de um conteúdo informativo sobre a arquitetura carioca, através de vídeos, fotos, artigos e notícias. Ademais, também conterá uma seção de depoimentos, formulário de contato e primordialmente o link para o download do app.
 
 ### Why (Por que?):
 
@@ -32,3 +39,7 @@ para interfaces intuitivas, layout atraente utilizando conceitos de UX/UI, SEO p
 Custo variável de acordo com a complexidade do site, plataforma de hospedagem escolhida pela equipe de desenvolvimento. e aquisiçao do dominio se necessario.
 
 ofluzao
+=======
+
+
+>>>>>>> bc5f7cb1d85638a46865414a024626ec63130a6c
